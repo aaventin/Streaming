@@ -152,9 +152,9 @@ public class RelationTest {
             long total = (Long) r[0];
             Realisateur real = (Realisateur) r[1];
             
-            System.out.println(real.getNom()+" "+total);
-        
+            System.out.println(real.getNom()+" "+total);        
         }
+        
       
     }
 

@@ -22,6 +22,7 @@ import streaming.enumeration.TypeUtil;
  */
 public class ObjetTest {
     
+    
     @Test
     public void testEnum(){
         
